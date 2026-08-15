@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(147, 188, 235);
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+h1{
+    border: 2px solid black;
+    width:250px;
+    background-color: rgb(37, 112, 182);
+    border-radius: 10px; 
+}
+#field{
+    margin-top:50px;
+    border:2px solid black;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    background-color: rgb(59, 96, 136);
+    padding: 20px;
+    border-radius: 15px;
+}
+label{
+    color: solid black;
+    font-size: 30px;
+}
+input{
+    font-size: 20px;
+    color: brown;
+}
+#age{
+    font-size: 20px;
+    background-color: rgb(106, 141, 182);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+#r{
+    background-color: rgb(164, 64, 82);
+    border-radius: 9px;
+}
